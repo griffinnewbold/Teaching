@@ -16,3 +16,8 @@ interested in Computer Science and want to major/minor in it have the ability to
 weekly problem sets along with the lectures 2x a week and a required hour long lab. In terms of grading the course is roughly graded along these
 lines:
 
+1. Problem Sets
+2. Lab Attendance
+3. Midterm Exam
+
+The weights of these may change overtime so I will omit them, please refer to your current syllabus for more information on grading.
