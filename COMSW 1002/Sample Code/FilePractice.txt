@@ -1,0 +1,6 @@
+This is an example file!
+
+We are able to do many things with files, I mean just look at this!
+
+Hello to those who are using this file for practice. :D
+
