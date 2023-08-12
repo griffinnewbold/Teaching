@@ -1,8 +1,9 @@
 '''
 This file represents a complete Object Oriented Design Project,
-this project was inspired by Neetcode, but I have made some of my
-own modifications to it. There will be no traditional commentary
-so enjoy the code :D
+this project was the result of following Neetcode's Object
+Oriented Design course this code was all originally made by 
+him and all credit it goes to him, I am using it for interview
+prep purposes and to learn more about OOP and OOD in Python.
 
 As always you are welcome to look and modify this code to your 
 needs but you are required to make a note of such either directly
