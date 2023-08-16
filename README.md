@@ -7,4 +7,4 @@ Hello I am Griffin, I am currently a Teaching Assistant at Columbia University a
 I very much love my job, it brings me joy to watch others learn right before my eyes.
 
 ## Repo Purpose
-As the main heading and description says, this will store all of my content related to teaching, of course you may also find it on canvas for the course when the time is right but for potentially larger files and to keep a clean record of everything I have made (hell even this is missing the oldest materials) it will all be uploaded here first before being posted to canvas, students wishing to get an early start on the content can view it here. Have a good day!
+As the main heading and description says, this will store all of my content related to teaching, of course you may also find it on canvas for the course when the time is right but for potentially larger files and to keep a clean record of everything I have made (hell even this is missing the oldest materials) it will all be uploaded here first before being posted to canvas, students wishing to get an early start on the content can view it here. Have a good day!!
