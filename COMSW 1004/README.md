@@ -15,7 +15,7 @@ During semester I TA for the course it is taught by Professor Adam Cannon of Col
 9. Ending with discussion of Recursion and Java Generics
 
 
-Students demonstrate proficiency in the lectured topics through many means such as completing weekly problem sets which are either coding exercises completed through CODIO or written problems which will be assigned out of the textbook. While the structure of the course's grading has changed between the semesters I have been a teaching assistant the general structure will look something as follows:
+Students demonstrate proficiency in the lectured topics through many means such as completing weekly problem sets which are either coding exercises completed through Codio or written problems which will be assigned out of the textbook. While the structure of the course's grading has changed between the semesters I have been a teaching assistant the general structure will look something as follows:
 
 1. Problem Sets: 50%
 2. Midterms or Quizzes: 20%
