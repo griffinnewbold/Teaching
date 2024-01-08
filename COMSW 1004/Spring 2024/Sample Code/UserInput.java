@@ -9,4 +9,19 @@ public class UserInput {
     System.out.println("Welcome to 1004 " + name);
   }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  public abstract void testMethod();
+
 }
