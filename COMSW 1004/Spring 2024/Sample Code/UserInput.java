@@ -52,4 +52,13 @@ public class UserInput {
 
   public abstract void testMethod();
 
+
+
+
+
+
+
+
+  public abstract int testMethod2();
+
 }
