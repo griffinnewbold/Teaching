@@ -18,7 +18,7 @@ public class Search {
     int rightPointer = a.length - 1;
 
     while (leftPointer <= rightPointer) {
-      int mid = (leftPointer + rightPointer) / 2;
+      int mid = leftPointer + ((leftPointer + rightPointer) / 2);
       if (a[mid] == x) {
         return true;
       } else if (a[mid] < x) {
