@@ -1,6 +1,19 @@
+/**
+ * File contains all the search algorithms 
+ * mentioned in the course, linear and 
+ * binary search.
+ * 
+ * @author Griffin Newbold
+ */
 public class Search {
 
-  //Runs the sequential search algorithm and returns true or false.
+  /**
+   * Searches for the specified value x in the array a 
+   * using the sequential search algorithm.
+   *
+   * @param {@code int[] a} the array used for searching.
+   * @param {@code int x} the value to be searched for.
+   */
   public static boolean seqeuntialSearch(int[] a, int x) {
     int i = 0;
     while (i < a.length) {
@@ -12,7 +25,13 @@ public class Search {
     return false;
   }
 
-  //Runs the binary search algorithm and returns true or false.
+  /**
+   * Searches for the specified value x in the array a 
+   * using the binary search algorithm.
+   *
+   * @param {@code int[] a} the array used for searching.
+   * @param {@code int x} the value to be searched for.
+   */
   public static boolean binarySearch(int[] a, int x) {
     int leftPointer = 0;
     int rightPointer = a.length - 1;
@@ -30,6 +49,7 @@ public class Search {
     return false;
   }
 
+  //main method for code
   public static void main(String[] args) {
     int[] a = {1,2,3,4,5,6,7,8};
     System.out.println(binarySearch(a, 7));
