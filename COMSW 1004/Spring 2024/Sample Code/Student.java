@@ -1,3 +1,4 @@
+//class representing a student
 public class Student {
 
     //instance variables
