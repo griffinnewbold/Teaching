@@ -1,7 +1,7 @@
 /**
  * Includes methods for all the mentioned sorting algorithms.
  * Will be updated later to include other mentioned algorithms
- * later in the course i.e. merge sort.
+ * later in the course i.e. merge sort. :D
  *
  * @author Griffin Newbold
  */
