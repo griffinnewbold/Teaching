@@ -7,6 +7,7 @@ public class ArrayListSample {
     for (String s : args) {
       stringList.add(s);
     }
+    System.out.println(stringList);
   }
 
   
