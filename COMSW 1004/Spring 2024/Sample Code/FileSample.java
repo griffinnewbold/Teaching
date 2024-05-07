@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class FileSample {
 
-
+    //reads the file specified by argas[0] and writes to the file specified by args[1]
     public static void main(String[] args) throws FileNotFoundException {
         File myFile = new File(args[0]);
         Scanner parser = new Scanner(myFile);
