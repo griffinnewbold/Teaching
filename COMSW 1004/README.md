@@ -12,7 +12,7 @@ During semester I TA for the course it is taught by Professor Adam Cannon of Col
 6. Fundamentals of Java Programming: Variables, Conditionals, Loops, Taking User Input
 7. Principles of Object Oriented Design: Encapsulation, Abstraction, Inheritance, and Polymorphism
 8. More Java Topics include: Arrays, ArrayLists, Files and Exception Handling
-9. Ending with discussion of Recursion and Java Generics
+9. Ending with discussion of Recursion and Javadoc 
 
 
 Students demonstrate proficiency in the lectured topics through many means such as completing weekly problem sets which are either coding exercises completed through Codio or written problems which will be assigned out of the textbook. While the structure of the course's grading has changed between the semesters I have been a teaching assistant the general structure will look something as follows:
